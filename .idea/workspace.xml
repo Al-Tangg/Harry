@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="boj_14888_연산자끼워넣기 풀이 완료">
+      <change afterPath="$PROJECT_DIR$/BF/boj_2302_극장좌석.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성기출/boj_14889_스타트와링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성기출/고대문명유적탐사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성기출/마법의숲탐색(미해결).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성기출/색깔트리(미해결).py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2m8zLcWRCUAVYos6OUJ6dHAuo8A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.boj_13458_시험감독.executor": "Run",
+    "Python.boj_14501_퇴사.executor": "Run",
+    "Python.boj_14888_연산자끼워넣기.executor": "Run",
+    "Python.boj_14889_스타트와링크.executor": "Run",
+    "Python.boj_2302_극장좌석.executor": "Run",
+    "Python.마법의숲탐색(미해결).executor": "Run",
+    "Python.마법의숲탐색.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DFS" />
+      <recent name="$PROJECT_DIR$/BF" />
+      <recent name="$PROJECT_DIR$/math" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="" />
+      <created>1726472936778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726472936778</updated>
+    </task>
+    <task id="LOCAL-00001" summary="docs: Week1 update">
+      <option name="closed" value="true" />
+      <created>1726473213532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726473213532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: gitignore update">
+      <option name="closed" value="true" />
+      <created>1726473680097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726473680097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="boj_14501_퇴사 풀이완료">
+      <option name="closed" value="true" />
+      <created>1728108937663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728108937663</updated>
+    </task>
+    <task id="LOCAL-00004" summary="boj_13458_시험감독 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1728110456350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728110456350</updated>
+    </task>
+    <task id="LOCAL-00005" summary="boj_14888_연산자끼워넣기 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1728293222579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728293222579</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: Week1 update" />
+    <MESSAGE value="docs: gitignore update" />
+    <MESSAGE value="boj_14501_퇴사 풀이완료" />
+    <MESSAGE value="boj_13458_시험감독 풀이 완료" />
+    <MESSAGE value="boj_14888_연산자끼워넣기 풀이 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj_14888_연산자끼워넣기 풀이 완료" />
+  </component>
+</project>
