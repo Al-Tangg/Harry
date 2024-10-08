@@ -7,8 +7,12 @@ all_people = set(range(N))
 
 min_sum = float('inf')
 
+print(all_people)
+
 for start_team in combinations(range(N), N // 2):
     link_team = all_people - set(start_team)
+
+    print(link_team)
 
     # 스타트 팀 능력치 계산
     s_sum = 0

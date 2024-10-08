@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="boj_14888_연산자끼워넣기 풀이 완료">
+    <list default="true" id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="boj_14889_스타트와링크 풀이 완료">
       <change afterPath="$PROJECT_DIR$/BF/boj_2302_극장좌석.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성기출/boj_14889_스타트와링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성기출/boj_14503_로봇청소기.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/삼성기출/고대문명유적탐사.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/삼성기출/마법의숲탐색(미해결).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/삼성기출/색깔트리(미해결).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BF/boj_14889_스타트와링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/BF/boj_14889_스타트와링크.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
   "keyToString": {
     "Python.boj_13458_시험감독.executor": "Run",
     "Python.boj_14501_퇴사.executor": "Run",
+    "Python.boj_14503_로봇청소기.executor": "Run",
     "Python.boj_14888_연산자끼워넣기.executor": "Run",
     "Python.boj_14889_스타트와링크.executor": "Run",
     "Python.boj_2302_극장좌석.executor": "Run",
@@ -53,8 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/DFS" />
       <recent name="$PROJECT_DIR$/BF" />
+      <recent name="$PROJECT_DIR$/DFS" />
       <recent name="$PROJECT_DIR$/math" />
     </key>
   </component>
@@ -114,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728293222579</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="boj_14889_스타트와링크 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1728316531822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728316531822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +134,7 @@
     <MESSAGE value="boj_14501_퇴사 풀이완료" />
     <MESSAGE value="boj_13458_시험감독 풀이 완료" />
     <MESSAGE value="boj_14888_연산자끼워넣기 풀이 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="boj_14888_연산자끼워넣기 풀이 완료" />
+    <MESSAGE value="boj_14889_스타트와링크 풀이 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj_14889_스타트와링크 풀이 완료" />
   </component>
 </project>
