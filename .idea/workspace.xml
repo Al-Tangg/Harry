@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="삼성 기출문제 풀이">
-      <change afterPath="$PROJECT_DIR$/복습/치킨배달.py" afterDir="false" />
+    <list default="true" id="4c85b8e1-d68e-40d8-a705-48e3b860a606" name="변경" comment="치킨 배달 복습 완료">
+      <change afterPath="$PROJECT_DIR$/복습/연구소.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.boj_3190_뱀.executor": "Run",
     "Python.마법의숲탐색(미해결).executor": "Run",
     "Python.마법의숲탐색.executor": "Run",
+    "Python.연구소.executor": "Run",
     "Python.치킨배달.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728733183050</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="치킨 배달 복습 완료">
+      <option name="closed" value="true" />
+      <created>1728735890968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728735890968</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,7 +181,8 @@
     <MESSAGE value="boj_14503_로봇청소기.py 풀이완료" />
     <MESSAGE value="문제 풀이 완료" />
     <MESSAGE value="삼성 기출문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="삼성 기출문제 풀이" />
+    <MESSAGE value="치킨 배달 복습 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="치킨 배달 복습 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
